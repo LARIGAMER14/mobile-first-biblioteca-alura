@@ -26,7 +26,6 @@ h1{
 }
 .lista-menu-título{
 color: var(--amarelo);
-
 }
 
 .lista-menu-título,.lista-menu-item{
@@ -34,6 +33,11 @@ padding: 1em;
 border-color: var(--branco);
 }
 
+.lista-menu-link{
+background: var(--roxo);
+background-clip: text;
+text-transform: ;
+}
 
 @media screen and (min-width:1024px) {
     h1{
