@@ -25,6 +25,13 @@ h1{
     display: none;
 }
 
+.lista-menu-título,.lista-menu-item{
+padding: 1em;
+border-color: var(--branco);
+
+}
+
+
 @media screen and (min-width:1024px) {
     h1{
         display: block;
